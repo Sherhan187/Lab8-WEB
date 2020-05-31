@@ -1,0 +1,21 @@
+body {
+    background-color: #2d3538;
+}
+
+label, h1, h2, h3, h4, h5, span, cite, p {
+    color: aliceblue
+}
+
+.container-login{
+    padding:5%;
+}
+.container-login .img{
+    text-align:center;
+}
+.container-login .details{
+    border-left:3px solid #ded4da;
+}
+.container-login .details p{
+    font-size:10px;
+    font-weight:bold;
+}

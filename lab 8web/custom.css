@@ -1,0 +1,13 @@
+.container-login{
+    padding:5%;
+}
+.container-login .img{
+    text-align:center;
+}
+.container-login .details{
+    border-left:3px solid #ded4da;
+}
+.container-login .details p{
+    font-size:10px;
+    font-weight:bold;
+}
